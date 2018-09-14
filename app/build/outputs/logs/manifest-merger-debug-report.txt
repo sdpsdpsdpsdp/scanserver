@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d6750cf304d0bb9eeddedd6fa301d32\AndroidManifest.xml:17:1-22:12
+MERGED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:support-fragment:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5af5081bb2e46c0db1bf7b45b76508dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d06a932a5bee9711503a35ef24b24e0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ce8434ffc64da12335cfe1016b260745\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\07cb5380b2a22f8939ad0c5dfb9aad73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6561a8ebab69d08f7c313a300c2aefa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\184671de82b9f1224725ad5dc26bd4b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6b8a89c1148ed79a16723a6ab5a838d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\74e2db223ff159d0096c3a86ee3db72c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1fb213810c96a73b532de8835adfab9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c45ff279dff817b4686f799ffad77f15\AndroidManifest.xml:17:1-22:12
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d6750cf304d0bb9eeddedd6fa301d32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d6750cf304d0bb9eeddedd6fa301d32\AndroidManifest.xml:20:5-44
+MERGED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5af5081bb2e46c0db1bf7b45b76508dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5af5081bb2e46c0db1bf7b45b76508dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d06a932a5bee9711503a35ef24b24e0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d06a932a5bee9711503a35ef24b24e0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ce8434ffc64da12335cfe1016b260745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ce8434ffc64da12335cfe1016b260745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\07cb5380b2a22f8939ad0c5dfb9aad73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\07cb5380b2a22f8939ad0c5dfb9aad73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6561a8ebab69d08f7c313a300c2aefa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6561a8ebab69d08f7c313a300c2aefa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\184671de82b9f1224725ad5dc26bd4b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\184671de82b9f1224725ad5dc26bd4b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6b8a89c1148ed79a16723a6ab5a838d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6b8a89c1148ed79a16723a6ab5a838d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\74e2db223ff159d0096c3a86ee3db72c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\74e2db223ff159d0096c3a86ee3db72c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1fb213810c96a73b532de8835adfab9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1fb213810c96a73b532de8835adfab9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c45ff279dff817b4686f799ffad77f15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] G:\AndroidSoft\gradle-3.3\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c45ff279dff817b4686f799ffad77f15\AndroidManifest.xml:20:5-44
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml
+application
+ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:11:5-27:19
+MERGED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-27:19
+MERGED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-27:19
+	android:label
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:12:9-28
+activity#com.pda.scan1dserver.MainActivity
+ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from I:\AndroidProject\scanserver\app\src\main\AndroidManifest.xml:23:27-74
+receiver#com.laisontech.infraredscanlib.KeyReceiver
+ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-21:20
+	android:name
+		ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:19-76
+intent-filter#action:name:android.intent.action.FUN_KEY+action:name:android.intent.action.MAIN+action:name:android.rfid.FUN_KEY+category:name:android.intent.category.LAUNCHER
+ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-20:29
+action#android.rfid.FUN_KEY
+ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:17-63
+	android:name
+		ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:25-60
+action#android.intent.action.FUN_KEY
+ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:17-72
+	android:name
+		ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:25-69
+service#com.laisontech.infraredscanlib.Scan1DService
+ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:9-80
+	android:name
+		ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:18-77
+receiver#com.laisontech.infraredscanlib.ReceiveScanCodeReceiver
+ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:9-91
+	android:name
+		ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:19-88
+receiver#com.laisontech.infraredscanlib.OpenPortReceiver
+ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:9-84
+	android:name
+		ADDED from [:infraredscanlib] I:\AndroidProject\scanserver\infraredscanlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:19-81

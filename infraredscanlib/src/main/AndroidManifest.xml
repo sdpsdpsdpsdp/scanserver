@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.laisontech.infraredscanlib" >
+    <application>
+        <receiver android:name=".KeyReceiver">
+            <intent-filter>
+                <action android:name="android.rfid.FUN_KEY"/>
+                <!-- 兼容H941 -->
+                <action android:name="android.intent.action.FUN_KEY"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </receiver>
+        <service android:name=".Scan1DService"/>
+        <receiver android:name=".ReceiveScanCodeReceiver"/>
+        <receiver android:name=".OpenPortReceiver"/>
+    </application>
+</manifest>
